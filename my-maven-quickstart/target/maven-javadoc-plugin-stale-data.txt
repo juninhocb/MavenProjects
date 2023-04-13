@@ -1,0 +1,41 @@
+@options
+@packages
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/leonardo.LOCAL/Desktop/workspace/maven/my-maven-quickstart/src/main/java;C:/Users/leonardo.LOCAL/Desktop/workspace/maven/my-maven-quickstart/second'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/leonardo.LOCAL/Desktop/workspace/maven/my-maven-quickstart/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-maven-quickstart 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/leonardo.LOCAL/Desktop/workspace/maven/my-maven-quickstart/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'my-maven-quickstart 1.0-SNAPSHOT API'
+com.example.quickstart
+com.second.example
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\src\main\java = 1681384875530
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\second = 1681392920020
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\allclasses-frame.html = 1681403722604
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\allclasses-noframe.html = 1681403722614
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\constant-values.html = 1681403722357
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\deprecated-list.html = 1681403722594
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\help-doc.html = 1681403722697
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\index-all.html = 1681403722563
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\index.html = 1681403722636
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\overview-frame.html = 1681403722182
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\overview-summary.html = 1681403722665
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\overview-tree.html = 1681403722531
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\package-list = 1681403722170
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\script.js = 1681403722711
+C:\Users\leonardo.LOCAL\Desktop\workspace\maven\my-maven-quickstart\target\site\apidocs\stylesheet.css = 1681403722708
